@@ -1,0 +1,8 @@
+E:
+cd E:\software\20230328New\eclipseWorkSpace\demoClass
+mvnw package           // 打包
+mvnw spring-boot:run   // RUN WAR FILE
+
+網址：
+http://localhost:8080/actuator/health
+
